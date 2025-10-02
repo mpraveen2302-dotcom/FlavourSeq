@@ -1,0 +1,11 @@
+pandas
+numpy
+scikit-learn
+openpyxl
+gradio
+biopython
+matplotlib
+seaborn
+py3Dmol
+requests
+PeptideBuilder
